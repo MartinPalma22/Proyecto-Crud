@@ -1,0 +1,36 @@
+body {
+    background-color: #2d0bed; 
+    font-family: Arial, sans-serif; 
+}
+
+.container {
+    background-color: #1bc1f3; 
+    padding: 20px;
+    border-radius: 8px; 
+    box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1); 
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    font-weight: bold;
+}
+
+.form-control {
+    border: 1px solid #ced4da; 
+}
+
+.btn-primary {
+    background-color: #007bff; 
+    border-color: #007bff; 
+    padding: 10px 20px; 
+    font-size: 16px; 
+    border-radius: 5px; 
+}
+
+.btn-primary:hover {
+    background-color: #0056b3; 
+    border-color: #0056b3; 
+}
